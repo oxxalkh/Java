@@ -1,0 +1,8 @@
+апр. 24, 2023 3:23:55 PM HW2.task4.Program main
+INFO: 
+ Операция умножения. 
+
+апр. 24, 2023 6:11:33 PM HW2.task4.Program main
+INFO: 
+ Операция деления. 
+
