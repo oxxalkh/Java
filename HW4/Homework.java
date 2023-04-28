@@ -57,7 +57,6 @@ import java.util.Scanner;
                     } else {
                         System.out.println("Нет сохраненных строк");
                     }
-
                 } else {
                     list.addFirst(input);
                 }
