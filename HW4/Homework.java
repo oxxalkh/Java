@@ -48,6 +48,7 @@ import java.util.Scanner;
                       System.out.println(list.removeFirst());
                   }
 */
+
                 } else if (input.equals("revert")) {
                     if (!list.isEmpty()) {
                         list.removeFirst();
