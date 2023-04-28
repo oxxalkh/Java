@@ -1,0 +1,21 @@
+апр. 24, 2023 3:18:04 PM HW2.task2.Program bubbleSort
+INFO: Sorted array: 
+[8, 4, 10, 272, 0, 34]
+апр. 24, 2023 3:18:04 PM HW2.task2.Program bubbleSort
+INFO: Sorted array: 
+[8, 4, 10, 0, 272, 34]
+апр. 24, 2023 3:18:04 PM HW2.task2.Program bubbleSort
+INFO: Sorted array: 
+[8, 4, 10, 0, 34, 272]
+апр. 24, 2023 3:18:04 PM HW2.task2.Program bubbleSort
+INFO: Sorted array: 
+[4, 8, 10, 0, 34, 272]
+апр. 24, 2023 3:18:04 PM HW2.task2.Program bubbleSort
+INFO: Sorted array: 
+[4, 8, 0, 10, 34, 272]
+апр. 24, 2023 3:18:04 PM HW2.task2.Program bubbleSort
+INFO: Sorted array: 
+[4, 0, 8, 10, 34, 272]
+апр. 24, 2023 3:18:04 PM HW2.task2.Program bubbleSort
+INFO: Sorted array: 
+[0, 4, 8, 10, 34, 272]
