@@ -38,8 +38,6 @@ public class Laptop {
         return color;
     }
 
-
-
     @Override
     public String toString() {
         return brand + " " + model + ", " + ram + "GB RAM, " + storage + "GB storage, $" + price + ", " + color;
